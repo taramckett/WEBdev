@@ -1,0 +1,30 @@
+
+.changetext {
+    font-family: cursive; /*changes font on text*/
+}
+
+.ul {
+
+  list-style-type: square; /* Changes bullets to squares */
+    font-size: 12px;
+    text-align: left;
+}
+
+.ul2 {
+
+  list-style-type: square; /* Changes bullets to squares */
+    font-size: 12px;
+    text-align: left;
+    color: darkturquoise;
+}
+.underline {
+    text-decoration: underline;
+}
+
+.youtube {
+    margin: auto;
+}
+
+.tableau {
+    border-style: dashed;overflow: auto;
+}
